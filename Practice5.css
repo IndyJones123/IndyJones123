@@ -1,0 +1,15 @@
+.Heading{
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+/*engubah inline menjadi block*/
+.Link{
+    display: inline-block;
+    width: 200px;
+    height: 100px;
+    background-color: red;
+}
+
+/* mengubah block menjadi inline*/
+.test li{
+    display: inline;
+}

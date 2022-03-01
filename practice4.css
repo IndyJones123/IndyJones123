@@ -1,0 +1,10 @@
+/*Harus Seperti ini untuk mengubah warna berdasarkan Selector sesuai prinsip Specificity yakni
+0000 = Inline, ID, Class, Elemen HTML yang menang melakukan eksekusi*/
+/*memiliki jumlah 0102*/
+ul#MakananSeharihari li{
+    color: green;
+}
+/*memiliki jumlah 0112*/
+ul#MakananSeharihari li.MakananFavorit{
+    color: blue;
+}

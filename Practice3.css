@@ -1,0 +1,55 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(77, 59, 59);
+}
+
+h1,h2{
+    color: lime;
+}
+
+ul li a{
+    color: orange;
+}
+
+ol li a{
+    color:rgb(224, 224, 224);
+}
+
+/*# Digunakan untuk Selector ID , . Digunakan untuk Selector Class */
+#p1{
+    color: royalblue;
+}
+
+.p2{
+    color: seagreen;
+}
+
+/* NOTE JANGAN PAKAI ID BUAT CSS */
+
+ul li:first-child a{
+    color :seagreen;
+}
+
+ul li:last-child a{
+    color: seagreen;
+}
+
+ol li:nth-child(2n+1) a{
+    color: seagreen;
+}
+/*pas cursor diatas text link warna ne berubah (hover)*/
+ul li a:hover {
+    color: red;
+}
+/*pas setelah text link e dipencet warnane berubah */
+ul li a:active{
+    color:royalblue;
+}
+
+/*inherit*/
+
+a{
+    /*a tidak dapat terubah secara langsung harus manual begitu juga property yang lain apabila tidak bisa terubah maka pakai 
+    inherite */
+    color: inherit;
+}
