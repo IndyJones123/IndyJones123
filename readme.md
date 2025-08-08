@@ -25,6 +25,7 @@
 ![FastAPI](https://img.shields.io/badge/-FastAPI-333333?style=flat&logo=fastapi)
 ![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=laravel)
 ![Unity](https://img.shields.io/badge/-Unity-333333?style=flat&logo=unity)
+![C#](https://img.shields.io/badge/-C%23-333333?style=flat&logo=c-sharp)
 
 #### 🗄️ Databases & Dev Tools
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
@@ -50,7 +51,14 @@
 | [apbisdi.id](https://apbisdi.id) | Platform Asosiasi Profesi & Pendidikan Bisnis Digital | Laravel, MySQL | 🟢 Active | 400++ User Registered | APBISDI (Asosiasi Profesi & Pendidikan Bisnis Digital Indonesia) |
 | [AgeOf Marketplace](https://marketplace.ageof.id/) | Digital Marketplace for Ragnarok Online Game That Integrated With Ingame Database | Node.js, React, PostgreSQL, TypeScript | 🟢 Active | On Testing | AgeOf.ID Team |
 | [Alpha Credit](https://credit.alphammo.com/) | Platform Top Up online (AlphAmmo) | FastAPI, TypeScript, PostgreSQL | 🟢 Active | On Testing | Alphammo Official |
+| [Edu Game](https://agasuck.itch.io/belajar-menghitung-penjumlahan-only) | Edu Game For Math | Unity, C# | 🟢 Active | Submited | Student From UII | (I dont know if the comission for graduation mybad fellas)
 
+### 📂 Personal Projects
+
+| Project | Description | Tech Stack | Status | Link |
+|---------|-------------|------------|--------|------|
+| [MyPortfolio](https://alfiandm.com) | Personal portfolio website to showcase my skills and projects | React, Node.js, PostgreSQL | 🟢 Active | [Demo](https://alfiandm.com) |
+| [GameJam2024]([https://github.com/yourusername/gamejam2024](https://agasuck.itch.io/the-savior-rainshaman-kobokanaeru-hololive-fanmade)) | 2D Game Platformer made with Unity | Unity, C# | 🟢 Active | [GitHub]([https://github.com/yourusername/gamejam2024](https://github.com/IndyJones123/Game-KoboAdventure)) |
 
 ---
 
@@ -74,6 +82,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
+
 
 
 
