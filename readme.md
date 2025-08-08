@@ -47,9 +47,9 @@
 
 | Project | Description | Tech Stack | Status | Users |
 |--------|-------------|------------|--------|-------|
-| [apbisdi.id](https://apbisdi.id) | Platform Asosiasi Profesi & Pendidikan Bisnis Digital | Laravel, MySQL | 🟢 Active | 135 institusi & 289 individu :contentReference[oaicite:0]{index=0} |
-| [AgeOf Marketplace](https://marketplace.ageof.id/) | Digital marketplace untuk Age of Empires assets | Node.js, React, PostgreSQL | 🟢 Active | Data not available |
-| [Alpha Credit](https://credit.alphammo.com/) | Platform kredit online (AlphAmmo) | FastAPI, TypeScript, PostgreSQL | 🟢 Active | Data not available |
+| [apbisdi.id](https://apbisdi.id) | Platform Asosiasi Profesi & Pendidikan Bisnis Digital | Laravel, MySQL | 🟢 Active | 400++ User Registered |
+| [AgeOf Marketplace](https://marketplace.ageof.id/) | Digital Marketplace for Ragnarok Online Game That Integrated With Ingame Database| Node.js, React, PostgreSQL, Typescript | 🟢 Active | On Testing |
+| [Alpha Credit](https://credit.alphammo.com/) | Platform Top Up online (AlphAmmo) | FastAPI, TypeScript, PostgreSQL | 🟢 Active | On Testing |
 
 
 ---
@@ -74,3 +74,4 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
+
