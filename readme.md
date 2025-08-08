@@ -58,7 +58,7 @@
 | Project | Description | Tech Stack | Status | Link |
 |---------|-------------|------------|--------|------|
 | [MyPortfolio](https://alfiandm.com) | Personal portfolio website to showcase my skills and projects | React, Node.js, PostgreSQL | 🟢 Active | [Demo](https://alfiandm.com) |
-| [GameJam2024]([https://github.com/yourusername/gamejam2024](https://agasuck.itch.io/the-savior-rainshaman-kobokanaeru-hololive-fanmade)) | 2D Game Platformer made with Unity | Unity, C# | 🟢 Active | [GitHub]([https://github.com/yourusername/gamejam2024](https://github.com/IndyJones123/Game-KoboAdventure)) |
+| [The Savior Rain Shaman]([https://github.com/yourusername/gamejam2024](https://agasuck.itch.io/the-savior-rainshaman-kobokanaeru-hololive-fanmade)) | 2D Game Platformer made with Unity | Unity, C# | 🟢 Active | [GitHub]([https://github.com/yourusername/gamejam2024](https://github.com/IndyJones123/Game-KoboAdventure)) |
 
 ---
 
@@ -82,6 +82,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=indyjones123&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
+
 
 
 
