@@ -1,60 +1,70 @@
-<h1 align="center">Hi there, I'm <a href="https://yourwebsite.com" target="_blank">Your Name</a> 👋</h1>
-<h3 align="center">💻 Developer | 🚀 Tech Enthusiast | 🎨 Creative Coder</h3>
+<h1 align="center">Hi there, I'm <a href="https://alfiandm.com" target="_blank">Your Name</a> 👋</h1>
+<h3 align="center">💻 Full-Stack Developer | 🧠 Problem Solver | 🎮 Game Developer </h3>
 
 ---
 
 ### 🧑‍💻 About Me
 
-- 🔭 I’m currently working on **awesome personal projects**
-- 🌱 I’m currently learning **AI, cloud, and backend development**
-- 🧠 I love solving problems and building efficient systems
-- 💬 Ask me about anything related to **Python, JavaScript, or system design**
-- 📫 Reach me at: **youremail@example.com**
-- 🌐 Portfolio: [yourwebsite.com](https://yourwebsite.com)
+- 🔭 I’m currently working at **Mitrasoft Global Perdana** and handling **Commission Projects**
+- 💼 I have **3+ years of experience** in web development, backend systems, and automation
+- 🧠 Passionate about creating scalable systems and smooth user experiences
+- 💬 Ask me about **Python, TypeScript, FastAPI, Unity, or system design**
+- 📫 Reach me at: **alfianitem999@gmail.com**
+- 🌐 Portfolio: [alfiandm.com](https://alfiandm.com)
 
 ---
 
 ### 🚀 Tech Stack
 
+#### 🧠 Languages & Frameworks
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![FastAPI](https://img.shields.io/badge/-FastAPI-333333?style=flat&logo=fastapi)
+![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=laravel)
+![Unity](https://img.shields.io/badge/-Unity-333333?style=flat&logo=unity)
+
+#### 🗄️ Databases & Dev Tools
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
-![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 
 ---
 
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=indyjones123&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=indyjones123&theme=radical" />
 </p>
 
 ---
 
-### 📂 Top Projects
+### 📂 Featured Projects
 
-| Name                                                   | Description            | Tech                |
-| ------------------------------------------------------ | ---------------------- | ------------------- |
-| [Project A](https://github.com/yourusername/project-a) | A modern web app for X | React, Node.js      |
-| [Project B](https://github.com/yourusername/project-b) | CLI tool to automate Y | Python              |
-| [Project C](https://github.com/yourusername/project-c) | API for Z              | FastAPI, PostgreSQL |
+| Project | Description | Tech Stack | Status | Users |
+|--------|-------------|------------|--------|-------|
+| [apbisdi.id](https://apbisdi.id) | Platform Asosiasi Profesi & Pendidikan Bisnis Digital | Laravel, MySQL | 🟢 Active | 135 institusi & 289 individu :contentReference[oaicite:0]{index=0} |
+| [AgeOf Marketplace](https://marketplace.ageof.id/) | Digital marketplace untuk Age of Empires assets | Node.js, React, PostgreSQL | 🟢 Active | Data not available |
+| [Alpha Credit](https://credit.alphammo.com/) | Platform kredit online (AlphAmmo) | FastAPI, TypeScript, PostgreSQL | 🟢 Active | Data not available |
+
 
 ---
 
 ### ☕ Let's Connect
 
 <p align="left">
-  <a href="https://linkedin.com/in/yourusername" target="_blank">
+  <a href="https://linkedin.com/in/alfian-dorif-murtadlo-420122157" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://twitter.com/yourusername" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="mailto:youremail@example.com">
+<a href="https://instagram.com/alfiandm.com" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
+</a>
+
+  <a href="mailto:alfianitem999@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
