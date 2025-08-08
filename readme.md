@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm <a href="https://alfiandm.com" target="_blank">Your Name</a> 👋</h1>
+<h1 align="center">Hi there, I'm <a href="https://alfiandm.com" target="_blank">Alfian Dorif Murtadlo</a> 👋</h1>
 <h3 align="center">💻 Full-Stack Developer | 🧠 Problem Solver | 🎮 Game Developer </h3>
 
 ---
@@ -74,5 +74,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
+
 
 
