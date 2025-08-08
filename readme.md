@@ -6,7 +6,7 @@
 ### 🧑‍💻 About Me
 
 - 🔭 I’m currently working at **Mitrasoft Global Perdana** and handling **Commission Projects**
-- 💼 I have **3+ years of experience** in web development, backend systems, and automation
+- 💼 I have **3+ years of experience** in web development, backend systems, automation, and game developer
 - 🧠 Passionate about creating scalable systems and smooth user experiences
 - 💬 Ask me about **Python, TypeScript, FastAPI, Unity, or system design**
 - 📫 Reach me at: **alfianitem999@gmail.com**
@@ -74,6 +74,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
+
 
 
 
