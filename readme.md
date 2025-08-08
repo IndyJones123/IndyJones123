@@ -43,13 +43,13 @@
 
 ---
 
-### 📂 Featured Projects
+### 📂 Commission Projects
 
-| Project | Description | Tech Stack | Status | Users |
-|--------|-------------|------------|--------|-------|
-| [apbisdi.id](https://apbisdi.id) | Platform Asosiasi Profesi & Pendidikan Bisnis Digital | Laravel, MySQL | 🟢 Active | 400++ User Registered |
-| [AgeOf Marketplace](https://marketplace.ageof.id/) | Digital Marketplace for Ragnarok Online Game That Integrated With Ingame Database| Node.js, React, PostgreSQL, Typescript | 🟢 Active | On Testing |
-| [Alpha Credit](https://credit.alphammo.com/) | Platform Top Up online (AlphAmmo) | FastAPI, TypeScript, PostgreSQL | 🟢 Active | On Testing |
+| Project | Description | Tech Stack | Status | Users | Ordered By |
+|--------|-------------|------------|--------|-------|------------|
+| [apbisdi.id](https://apbisdi.id) | Platform Asosiasi Profesi & Pendidikan Bisnis Digital | Laravel, MySQL | 🟢 Active | 400++ User Registered | APBISDI (Asosiasi Profesi & Pendidikan Bisnis Digital Indonesia) |
+| [AgeOf Marketplace](https://marketplace.ageof.id/) | Digital Marketplace for Ragnarok Online Game That Integrated With Ingame Database | Node.js, React, PostgreSQL, TypeScript | 🟢 Active | On Testing | AgeOf.ID Team |
+| [Alpha Credit](https://credit.alphammo.com/) | Platform Top Up online (AlphAmmo) | FastAPI, TypeScript, PostgreSQL | 🟢 Active | On Testing | Alphammo Official |
 
 
 ---
@@ -74,4 +74,5 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
+
 
