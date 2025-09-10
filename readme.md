@@ -53,6 +53,18 @@
 | [Alpha Credit](https://credit.alphammo.com/) | Platform Top Up online (AlphAmmo) | FastAPI, TypeScript, PostgreSQL | 🟢 Active | On Testing | Alphammo Official |
 | [Edu Game](https://agasuck.itch.io/belajar-menghitung-penjumlahan-only) | Edu Game For Math | Unity, C# | 🟢 Active | Submited | Student From UII | (I dont know if the comission for graduation mybad fellas)
 
+
+---
+
+### 📊 User Analytics
+
+### APBISDI
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/IndyJones123/IndyJones123/main/Apbisdi.png" alt="User Analytics" width="80%" />
+</p>
+
+
 ### 📂 Personal Projects
 
 | Project | Description | Tech Stack | Status | Link |
@@ -82,6 +94,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=indyjones123&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
+
 
 
 
