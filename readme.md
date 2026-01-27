@@ -49,7 +49,7 @@
 | Project | Description | Tech Stack | Status | Users | Ordered By |
 |--------|-------------|------------|--------|-------|------------|
 | [apbisdi.id](https://apbisdi.id) | Platform Asosiasi Profesi & Pendidikan Bisnis Digital | Laravel, MySQL | 🟢 Active | 400++ User Registered | APBISDI (Asosiasi Profesi & Pendidikan Bisnis Digital Indonesia) |
-| [rog-market](https://rog-market.com/) | Digital Marketplace for Ragnarok Online Game That Integrated With Ingame Database | Node.js, React, PostgreSQL, TypeScript | 🟢 Active  | 1000++ Users | Reza Alatas Owner of OGxAOR
+| [rog-market](https://rog-market.com/) | Digital Marketplace for Ragnarok Online Game That Integrated With Ingame Database | Node.js, React, MySql, TypeScript | 🟢 Active  | 1000++ Users | Reza Alatas Owner of OGxAOR
 | [Alpha Credit](https://credit.alphammo.com/) | Platform Top Up online (AlphAmmo) | FastAPI, TypeScript, PostgreSQL | 🟢 Active | On Testing | Alphammo Official |
 | [Edu Game](https://agasuck.itch.io/belajar-menghitung-penjumlahan-only) | Edu Game For Math | Unity, C# | 🟢 Active | Submited | Student From UII | (I dont know if the comission for graduation mybad fellas)
 
@@ -94,6 +94,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=indyjones123&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
+
 
 
 
