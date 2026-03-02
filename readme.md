@@ -10,7 +10,7 @@
 - 🧠 Passionate about creating scalable systems and smooth user experiences
 - 💬 Ask me about **Python, TypeScript, FastAPI, Unity, or system design**
 - 📫 Reach me at: **alfianitem999@gmail.com**
-- 🌐 Portfolio: [indyjones123]([https://alfiandm.com](https://indyjones123.github.io/deploy-porto/))
+- 🌐 Portfolio: https://indyjones123.github.io/deploy-porto/
 
 ---
 
@@ -94,6 +94,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=indyjones123&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
+
 
 
 
