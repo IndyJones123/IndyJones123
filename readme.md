@@ -47,9 +47,6 @@
 </p>
 
 ---
-
-### 🏢 PT REOG SOLO DEV Projects (SaaS & Platforms)
-
 ### 🏢 PT REOG SOLO DEV Projects (SaaS & Platforms)
 
 | Project | Description | Tech Stack | Status | Link |
