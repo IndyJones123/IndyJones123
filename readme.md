@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm <a href="https://alfiandm.com" target="_blank">Alfian Dorif Murtadlo</a> 👋</h1>
-<h3 align="center">💻 Senior Full-Stack Developer | 🧠 Problem Solver | 🎮 Game Developer </h3>
+<h3 align="center">💻 Mediocre Full-Stack Developer | 🧠 Problem Solver | 🎮 Game Developer </h3>
 
 ---
 
