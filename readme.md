@@ -17,7 +17,7 @@
 
 ### 🚀 Tech Stack
 
-#### 🧠 Languages & Frameworks
+#### 🧠 Languages & Frameworksv
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
@@ -52,7 +52,7 @@
 | Project | Description | Tech Stack | Status | Link |
 |---------|-------------|------------|--------|------|
 | **Pilatech** | Comprehensive business management and booking system for fitness (Pilates, GYM, Yoga) centers, features automated financial reporting. | FastAPI, React, Tailwind, PostgreSQL | 🟢 Active | [demo.pilatech.id](https://demo.pilatech.id) |
-| **Absenin** | Smart attendance tracking and management system tailored for modern workflows and organizations. | FastAPI, Vue.js, Tailwind, PostgreSQL | 🟢 Active | - |
+| **Absenin** | Smart attendance tracking and management system tailored for modern workflows and organizations. | FastAPI, Vue.js, Tailwind, PostgreSQL | 🟢 Active | https://absenin.reogsolodev.my.id/#/ |
 | **IklanAcu** | Automated digital marketing and social media growth platform (Sub4Sub system & Webhook integrations). | FastAPI, Vue.js, Tailwind, PostgreSQL | 🟡 In Development | [IklanAcu]() |
 | **Company Profile** | Official landing page and business hub for PT Reog Solo Dev. | React, Tailwind CSS | 🟢 Active | [reogsolodev.com](https://reogsolodev.com) |
 ---
@@ -61,9 +61,9 @@
 
 | Project | Description | Tech Stack | Status | Users / Scale | Ordered By |
 |--------|-------------|------------|--------|-------|------------|
-| [[mp.seal-og.id](https://mp.seal-og.id/)] | Digital Marketplace for Seal Online Game integrated with live in-game database & real-time transaction system | Node.js, React, TypeScript, MySQL | 🟢 Active | - | Reza Alatas (OGxAOR) - Kevin - Puff |
+| [[mp.seal-og.id](https://mp.seal-og.id/)] | Digital Marketplace for Seal Online Game integrated with live in-game database & real-time transaction system | Node.js, React, TypeScript, MySQL | 🟢 Active | 6108++ Users | Reza Alatas (OGxAOR) - Kevin - Puff |
 | [apbisdi.id](https://apbisdi.id) | Platform Asosiasi Profesi & Pendidikan Bisnis Digital | Laravel, MySQL | 🟢 Active | 400++ Registered | APBISDI Official |
-| [rog-market](https://rog-market.com/) | Digital Marketplace for Ragnarok Online integrated with live in-game database | Node.js, React, TypeScript, MySQL | 🟢 Active  | 1000++ Users | Reza Alatas (OGxAOR) |
+| [rog-market](https://rog-market.com/) | Digital Marketplace for Ragnarok Online integrated with live in-game database | Node.js, React, TypeScript, MySQL | 🟢 Active  | 5272++ Users | Reza Alatas (OGxAOR) |
 | [Alpha Credit](https://credit.alphammo.com/) | Online Top-Up and payment gateway gateway platform for AlphAmmo | FastAPI, TypeScript, PostgreSQL | 🟢 Active | Testing Phase | Alphammo Official |
 | [Edu Game](https://agasuck.itch.io/belajar-menghitung-penjumlahan-only) | Educational Mathematics game built for academic graduation commission | Unity, C# | 🟢 Active | Submitted | UII Student |
 
