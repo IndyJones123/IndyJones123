@@ -67,16 +67,6 @@
 | [Alpha Credit](https://credit.alphammo.com/) | Online Top-Up and payment gateway gateway platform for AlphAmmo | FastAPI, TypeScript, PostgreSQL | 🟢 Active | Testing Phase | Alphammo Official |
 | [Edu Game](https://agasuck.itch.io/belajar-menghitung-penjumlahan-only) | Educational Mathematics game built for academic graduation commission | Unity, C# | 🟢 Active | Submitted | UII Student |
 
----
-
-### 📊 User Analytics
-
-### APBISDI
-<p align="center">
-  <img src="https://raw.githubusercontent.com/IndyJones123/IndyJones123/main/Apbisdi.png" alt="User Analytics" width="80%" />
-</p>
-
----
 
 ### 📂 Personal Hobby & Fan Projects Game
 
