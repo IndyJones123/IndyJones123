@@ -61,7 +61,7 @@
 
 | Project | Description | Tech Stack | Status | Users / Scale | Ordered By |
 |--------|-------------|------------|--------|-------|------------|
-| [[mp.seal-og.id](https://mp.seal-og.id/)] | Digital Marketplace for Seal Online Game integrated with live in-game database & real-time transaction system | Node.js, React, TypeScript, MySQL | 🟢 Active | 6108++ Users | Reza Alatas (OGxAOR) - Kevin - Puff |
+| [mp.seal-og.id](https://mp.seal-og.id/) | Digital Marketplace for Seal Online Game integrated with live in-game database & real-time transaction system | Node.js, React, TypeScript, MySQL | 🟢 Active | 6108++ Users | Reza Alatas (OGxAOR) - Kevin - Puff |
 | [apbisdi.id](https://apbisdi.id) | Platform Asosiasi Profesi & Pendidikan Bisnis Digital | Laravel, MySQL | 🟢 Active | 400++ Registered | APBISDI Official |
 | [rog-market](https://rog-market.com/) | Digital Marketplace for Ragnarok Online integrated with live in-game database | Node.js, React, TypeScript, MySQL | 🟢 Active  | 5272++ Users | Reza Alatas (OGxAOR) |
 | [Alpha Credit](https://credit.alphammo.com/) | Online Top-Up and payment gateway gateway platform for AlphAmmo | FastAPI, TypeScript, PostgreSQL | 🟢 Active | Testing Phase | Alphammo Official |
